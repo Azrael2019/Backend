@@ -1,0 +1,9 @@
+¡Bienvenido a Smart COMMERCE!
+
+Hola {{name}},
+Para empezar, necesitamos que confirmes tu dirección de correo electrónico y actives tu cuenta haciendo click en el botón de a continuación.
+
+Activar cuenta -> {{link}}
+
+Saludos,
+El Equipo de Smart COMMERCE

@@ -1,0 +1,9 @@
+Hola {{name}},
+Has solicitado un restablecimiento de contraseña para tu cuenta de Smart COMMERCE
+
+Restablecer contraseña -> {{link}}
+
+Si no has solicitado un restablecimiento de contraseña, puedes ignorar este email.
+
+Saludos,
+El Equipo de Smart COMMERCE

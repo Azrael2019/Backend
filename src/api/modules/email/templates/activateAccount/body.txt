@@ -1,0 +1,8 @@
+¡Cuenta activada!
+{{name}}, ¡Bienvenido a Smart COMMERCE!
+Tu cuenta ha sido activada, descubre y comienza a disfrutar de las promociones.
+
+¡Consigue ahora tu promoción! -> {{link}}
+
+Saludos,
+El Equipo de Smart COMMERCE

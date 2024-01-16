@@ -1,0 +1,4 @@
+¡Enhorabuena! Has activado la promoción {{promotion}} patrocinada por {{sponsor}}
+
+Saludos,
+El Equipo de Smart COMMERCE
